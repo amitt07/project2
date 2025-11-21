@@ -1,0 +1,14 @@
+.h1{
+    color: aqua;
+    background-color: brown;
+}
+.h2{
+    color: aliceblue;
+    background-color: black;
+}
+.p{
+    border: 2px solid black;
+}
+.button{
+     border: 2px solid rgb(202, 23, 196);
+}
